@@ -9,5 +9,6 @@ else:
     if thirsty == "yes":
         print("Drink Water")
         print("Drink Soda")
+        print("Drink Lime juice")
     else:
         print("Okay! Enjoy your day!")

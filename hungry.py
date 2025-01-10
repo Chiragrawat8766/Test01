@@ -12,3 +12,4 @@ else:
         print("Drink Lime juice")
     else:
         print("Okay! Enjoy your day!")
+        print("Have a good day!")
